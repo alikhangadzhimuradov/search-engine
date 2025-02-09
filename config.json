@@ -1,0 +1,9 @@
+{
+  "config": {
+    "max_responses": 5,
+    "files": [
+      "documents/doc1.txt",
+      "documents/doc2.txt"
+    ]
+  }
+}
